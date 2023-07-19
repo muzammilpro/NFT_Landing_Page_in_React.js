@@ -5,7 +5,7 @@ import HomePage from './Pages/HomePage';
 
 function App() {
   return (
-    <div>
+    <div className='bg-dark'>
      <HomePage />
     </div>
   );
