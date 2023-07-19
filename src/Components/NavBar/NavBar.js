@@ -1,10 +1,11 @@
-import React from 'react'
+import img from '../../Images/Storefront.png'
 
 export default function NavBar() {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-dark">
             <div className="container-fluid">
-                <a className="navbar-brand text-white" href="#">Navbar</a>
+           
+                <a className="navbar-brand text-white" href="#">  <img src={img} alt="#" />  NFT Marketplace</a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
@@ -20,9 +21,9 @@ export default function NavBar() {
                             <a className="nav-link text-white" href="#">Connect a wallet</a>
                         </li>
                         <li className="nav-item">
-                        <button className="btn btn-outline-success text-white" type="submit">Search</button>
+                        <button className="btn btn-primary btn-outline-primary text-white" type="submit">Search</button>
                         </li>
-                       
+                        
                         
                     </ul>
                     {/* <form className="d-flex">
