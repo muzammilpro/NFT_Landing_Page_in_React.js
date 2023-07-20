@@ -23,10 +23,10 @@ import img12 from '../../Images/Avatar Placeholder-1.png'
 export default function TrendingCollection() {
     return (
         <div>
-            <div className='container'>
+            <div className='container '>
             <h2 className='text-white'>Trending Collection</h2>
             <p className='text-white'>Check Out Our Weekly Updated Trending Collection</p>
-            <div className='d-flex justify-content-between'>
+            <div className='d-flex justify-content-around flex-container'>
                 <TrendingCollectionCards scr={Img1} scr1={Img4} scr2={Img5} scr3={Img1025} scr4={img10} botTxt="MrFox" />
                 <TrendingCollectionCards scr={Img2} scr1={Img6} scr2={Img7} scr3={Img1025} scr4={img11} botTxt="Shroomie" />
                 <TrendingCollectionCards scr={Img3} scr1={Img8} scr2={Img9} scr3={Img1025} scr4={img12} botTxt="BeKind2Robots" />

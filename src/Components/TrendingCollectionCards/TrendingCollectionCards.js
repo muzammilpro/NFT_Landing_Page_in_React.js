@@ -17,7 +17,7 @@ export default function TrendingCollectionCards(props) {
                         <h4 className='text-white'>DSGN Animals</h4>
                         <div className='d-flex'>
                         <img src={props.scr4} className="card-img-top" alt="..." style={{width: "9%"  , height: "2%"}} />
-                        <p>{props.botTxt}</p>
+                        <p className='text-white'>{props.botTxt}</p>
 
                      
 
