@@ -30,16 +30,16 @@ export default function TopCreators() {
             <div className="container">
                 <div className="row">
                     <div className="col col-lg-3 col-md-6">
-                    <TopCreatorsCards scr={Img1} title="Keeoitral" />
+                    <TopCreatorsCards scr={Img1} title="Keeoitral" /> <br/>
                     </div>
                     <div className="col col-lg-3 col-md-6">
-                    <TopCreatorsCards scr={Img2} title="DigiLab" />
+                    <TopCreatorsCards scr={Img2} title="DigiLab" /> <br/>
                     </div>
                     <div className="col col-lg-3 col-md-6">
-                    <TopCreatorsCards scr={Img3} title="GravityOne"/>
+                    <TopCreatorsCards scr={Img3} title="GravityOne"/> <br/>
                     </div>
                     <div className="col col-lg-3 col-md-6">
-                    <TopCreatorsCards scr={Img4} title="Junie" />
+                    <TopCreatorsCards scr={Img4} title="Junie" /> <br/>
                     </div>
                     
                 </div>
@@ -50,16 +50,16 @@ export default function TopCreators() {
             <div className="container">
                 <div className="row">
                     <div className="col col-lg-3 col-md-6">
-                    <TopCreatorsCards scr={Img5} title="BlueWhale"/>
+                    <TopCreatorsCards scr={Img5} title="BlueWhale"/> <br/>
                     </div>
                     <div className="col col-lg-3 col-md-6">
-                    <TopCreatorsCards scr={Img6} title="Mr Fox"/>
+                    <TopCreatorsCards scr={Img6} title="Mr Fox"/><br/>
                     </div>
                     <div className="col col-lg-3 col-md-6">
-                    <TopCreatorsCards scr={Img7} title="Shroomie"/>
+                    <TopCreatorsCards scr={Img7} title="Shroomie"/><br/>
                     </div>
                     <div className="col col-lg-3 col-md-6">
-                    <TopCreatorsCards scr={Img8} title="Robotica"/>
+                    <TopCreatorsCards scr={Img8} title="Robotica"/><br/>
                     </div>
                     
                 </div>
@@ -70,16 +70,16 @@ export default function TopCreators() {
             <div className="container">
                 <div className="row">
                     <div className="col col-lg-3 col-md-6">
-                    <TopCreatorsCards scr={Img9} title="RustyrRobot"/>
+                    <TopCreatorsCards scr={Img9} title="RustyrRobot"/> <br/>
                     </div> 
                     <div className="col col-lg-3 col-md-6">
-                    <TopCreatorsCards scr={Img10} title="AnimaKid"/>
+                    <TopCreatorsCards scr={Img10} title="AnimaKid"/><br/>
                     </div>
                     <div className="col col-lg-3 col-md-6">
-                    <TopCreatorsCards scr={Img11} title="Dotgu"/>
+                    <TopCreatorsCards scr={Img11} title="Dotgu"/><br/>
                     </div>
                     <div className="col col-lg-3 col-md-6">
-                    <TopCreatorsCards scr={Img12} title="Ghiblier"/>
+                    <TopCreatorsCards scr={Img12} title="Ghiblier"/><br/>
                     </div>
                     
                 </div>
