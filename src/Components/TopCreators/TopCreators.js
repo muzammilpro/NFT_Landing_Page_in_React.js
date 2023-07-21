@@ -30,16 +30,16 @@ export default function TopCreators() {
             <div className="container">
                 <div className="row">
                     <div className="col col-3">
-                    <TopCreatorsCards scr={Img1} />
+                    <TopCreatorsCards scr={Img1} title="Keeoitral" />
                     </div>
                     <div className="col col-3">
-                    <TopCreatorsCards scr={Img2} />
+                    <TopCreatorsCards scr={Img2} title="DigiLab" />
                     </div>
                     <div className="col col-3">
-                    <TopCreatorsCards scr={Img3}/>
+                    <TopCreatorsCards scr={Img3} title="GravityOne"/>
                     </div>
                     <div className="col col-3">
-                    <TopCreatorsCards scr={Img4}/>
+                    <TopCreatorsCards scr={Img4} title="Junie" />
                     </div>
                     
                 </div>
@@ -50,16 +50,16 @@ export default function TopCreators() {
             <div className="container">
                 <div className="row">
                     <div className="col col-3">
-                    <TopCreatorsCards scr={Img5}/>
+                    <TopCreatorsCards scr={Img5} title="BlueWhale"/>
                     </div>
                     <div className="col col-3">
-                    <TopCreatorsCards scr={Img6}/>
+                    <TopCreatorsCards scr={Img6} title="Mr Fox"/>
                     </div>
                     <div className="col col-3">
-                    <TopCreatorsCards scr={Img7}/>
+                    <TopCreatorsCards scr={Img7} title="Shroomie"/>
                     </div>
                     <div className="col col-3">
-                    <TopCreatorsCards scr={Img8}/>
+                    <TopCreatorsCards scr={Img8} title="Robotica"/>
                     </div>
                     
                 </div>
@@ -70,16 +70,16 @@ export default function TopCreators() {
             <div className="container">
                 <div className="row">
                     <div className="col col-3">
-                    <TopCreatorsCards scr={Img9}/>
+                    <TopCreatorsCards scr={Img9} title="RustyrRobot"/>
                     </div>
                     <div className="col col-3">
-                    <TopCreatorsCards scr={Img10}/>
+                    <TopCreatorsCards scr={Img10} title="AnimaKid"/>
                     </div>
                     <div className="col col-3">
-                    <TopCreatorsCards scr={Img11}/>
+                    <TopCreatorsCards scr={Img11} title="Dotgu"/>
                     </div>
                     <div className="col col-3">
-                    <TopCreatorsCards scr={Img12}/>
+                    <TopCreatorsCards scr={Img12} title="Ghiblier"/>
                     </div>
                     
                 </div>

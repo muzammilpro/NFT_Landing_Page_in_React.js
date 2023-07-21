@@ -12,6 +12,7 @@ export default function HomePage() {
             <TrendingCollection />
             <br /> <br /> <br />
             <TopCreators />
+            <br /> <br /> <br />
         </div>
     )
 }
