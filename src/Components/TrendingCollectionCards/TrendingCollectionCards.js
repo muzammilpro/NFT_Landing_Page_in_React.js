@@ -7,7 +7,7 @@ export default function TrendingCollectionCards(props) {
             <div className="card bg-dark" style={{ width: "18rem" }}>
                 <img src={props.scr} className="card-img-top" alt="..." style={{ width: "18rem" }} />
                 <div className="card-body">
-                    <div className='d-flex'>
+                    <div className='d-flex justify-content-around'>
                         <img src={props.scr1} className="card-img-top" alt="..." style={{ width: "30%", borderRadius: "29%" }} />
                         <img src={props.scr2} className="card-img-top" alt="..." style={{ width: "30%", borderRadius: "29%" }} />
                         <img src={props.scr3} className="card-img-top" alt="..." style={{ width: "30%", borderRadius: "29%" }} />
