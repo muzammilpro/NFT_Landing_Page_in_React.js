@@ -13,12 +13,12 @@ export default function DiscoverMoreCards(props) {
                 </div>
                 <div className='d-flex'>
                     <div className='p-2'>
-                    <p className=" text-white-50">Price</p>
-                    <h5 className=" text-white"> 1.63 ETH</h5>
+                        <p className=" text-white-50">Price</p>
+                        <h5 className=" text-white"> 1.63 ETH</h5>
                     </div>
                     <div className='ml-auto p-2'>
-                    <p className="text-white-50">Highest Bid</p>
-                    <h5 className=" text-white"> 0.33 wETH</h5>
+                        <p className="text-white-50">Highest Bid</p>
+                        <h5 className=" text-white"> 0.33 wETH</h5>
                     </div>
                 </div>
             </div>

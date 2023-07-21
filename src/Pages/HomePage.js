@@ -3,18 +3,22 @@ import MainHeader from '../Components/MainHeader/MainHeader'
 import TrendingCollection from '../Components/TrendingCollection/TrendingCollection'
 import TopCreators from '../Components/TopCreators/TopCreators'
 import DiscoverMore from '../Components/DiscoverMore/DiscoverMore'
+import BrowseCategory from '../Components/BrowseCategory/BrowseCategory'
 
 export default function HomePage() {
     return (
         <div>
             <NavBar />
             <MainHeader />
-            <br/> <br/> <br/>
+            <br /> <br /> <br />
             <TrendingCollection />
-            <br/> <br/> <br/>
+            <br /> <br /> <br />
             <TopCreators />
-            <br/> <br/> <br/>
+            <br /> <br /> <br />
             <DiscoverMore />
+            <br /> <br /> <br />
+            <BrowseCategory />
+            <br /> <br /> <br />
         </div>
     )
 }

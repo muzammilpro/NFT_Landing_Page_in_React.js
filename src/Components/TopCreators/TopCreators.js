@@ -29,16 +29,16 @@ export default function TopCreators() {
 
             <div className="container">
                 <div className="row">
-                    <div className="col col-3">
+                    <div className="col col-lg-3 col-md-6">
                     <TopCreatorsCards scr={Img1} title="Keeoitral" />
                     </div>
-                    <div className="col col-3">
+                    <div className="col col-lg-3 col-md-6">
                     <TopCreatorsCards scr={Img2} title="DigiLab" />
                     </div>
-                    <div className="col col-3">
+                    <div className="col col-lg-3 col-md-6">
                     <TopCreatorsCards scr={Img3} title="GravityOne"/>
                     </div>
-                    <div className="col col-3">
+                    <div className="col col-lg-3 col-md-6">
                     <TopCreatorsCards scr={Img4} title="Junie" />
                     </div>
                     
@@ -49,16 +49,16 @@ export default function TopCreators() {
             
             <div className="container">
                 <div className="row">
-                    <div className="col col-3">
+                    <div className="col col-lg-3 col-md-6">
                     <TopCreatorsCards scr={Img5} title="BlueWhale"/>
                     </div>
-                    <div className="col col-3">
+                    <div className="col col-lg-3 col-md-6">
                     <TopCreatorsCards scr={Img6} title="Mr Fox"/>
                     </div>
-                    <div className="col col-3">
+                    <div className="col col-lg-3 col-md-6">
                     <TopCreatorsCards scr={Img7} title="Shroomie"/>
                     </div>
-                    <div className="col col-3">
+                    <div className="col col-lg-3 col-md-6">
                     <TopCreatorsCards scr={Img8} title="Robotica"/>
                     </div>
                     
@@ -69,16 +69,16 @@ export default function TopCreators() {
 
             <div className="container">
                 <div className="row">
-                    <div className="col col-3">
+                    <div className="col col-lg-3 col-md-6">
                     <TopCreatorsCards scr={Img9} title="RustyrRobot"/>
-                    </div>
-                    <div className="col col-3">
+                    </div> 
+                    <div className="col col-lg-3 col-md-6">
                     <TopCreatorsCards scr={Img10} title="AnimaKid"/>
                     </div>
-                    <div className="col col-3">
+                    <div className="col col-lg-3 col-md-6">
                     <TopCreatorsCards scr={Img11} title="Dotgu"/>
                     </div>
-                    <div className="col col-3">
+                    <div className="col col-lg-3 col-md-6">
                     <TopCreatorsCards scr={Img12} title="Ghiblier"/>
                     </div>
                     
