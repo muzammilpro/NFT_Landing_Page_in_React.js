@@ -25,13 +25,13 @@ export default function DiscoverMore() {
             <div className="row">
 
                 <div className="col">
-                    <DiscoverMoreCards scr={Img1} title="Distant Galaxy" userName="MoonDancer"  userImg={img4}/>
+                    <DiscoverMoreCards scr={Img1} title="Distant Galaxy" userName="MoonDancer"  userImg={img4}/> <br/>
                 </div>
                 <div className="col">
-                    <DiscoverMoreCards scr={Img2} title="Life On Edena" userName="NebulaKid" userImg={img5}/>
+                    <DiscoverMoreCards scr={Img2} title="Life On Edena" userName="NebulaKid" userImg={img5}/> <br/>
                 </div>
                 <div className="col">
-                    <DiscoverMoreCards scr={Img3} title="AstroFiction" userName="Spaceone" userImg={img6}/>
+                    <DiscoverMoreCards scr={Img3} title="AstroFiction" userName="Spaceone" userImg={img6}/> <br/>
                 </div>
 
             </div>
