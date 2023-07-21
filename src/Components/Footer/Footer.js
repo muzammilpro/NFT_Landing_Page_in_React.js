@@ -3,7 +3,7 @@ import LogoImg from '../../Images/Storefront.png'
 export default function Footer() {
     return (
         
-            <footer className=' bg-gradient '>
+            <footer className=' bg-gradient '>  <br/>
                 <div className="container text-white">
                     <div class="row">
                         <div class="col">
