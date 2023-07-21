@@ -30,6 +30,67 @@ export default function TopCreators() {
                     
                 </div>
             </div>
+            
+             <br />
+            
+            <div className="container">
+                <div className="row">
+                    <div className="col col-3">
+                    <TopCreatorsCards />
+                    </div>
+                    <div className="col col-3">
+                    <TopCreatorsCards />
+                    </div>
+                    <div className="col col-3">
+                    <TopCreatorsCards />
+                    </div>
+                    <div className="col col-3">
+                    <TopCreatorsCards />
+                    </div>
+                    
+                </div>
+            </div>
+
+            <br />
+
+            <div className="container">
+                <div className="row">
+                    <div className="col col-3">
+                    <TopCreatorsCards />
+                    </div>
+                    <div className="col col-3">
+                    <TopCreatorsCards />
+                    </div>
+                    <div className="col col-3">
+                    <TopCreatorsCards />
+                    </div>
+                    <div className="col col-3">
+                    <TopCreatorsCards />
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <br />
+
+            <div className="container">
+                <div className="row">
+                    <div className="col col-3">
+                    <TopCreatorsCards />
+                    </div>
+                    <div className="col col-3">
+                    <TopCreatorsCards />
+                    </div>
+                    <div className="col col-3">
+                    <TopCreatorsCards />
+                    </div>
+                    <div className="col col-3">
+                    <TopCreatorsCards />
+                    </div>
+                    
+                </div>
+            </div>
+
         </div>
 
     )
