@@ -15,7 +15,8 @@ export default function MainHeader() {
                     <p className='text-white'>
                         NFT marketplace UI created with Anima for Figma. Collect, buy and sell art from more than 20k NFT artists.
                     </p>
-                    <button type="button" className="btn btn-primary"><i className="far fa-rocket"></i>Get Started</button> <br />
+                    <button type="button" className="btn btn-primary"><i className="bi bi-rocket"></i>Get Started</button>
+                     <br /> <br />
                     <div className='d-flex justify-content-between'>
                         <div>
                             <h4 className='text-white'>240k+</h4>

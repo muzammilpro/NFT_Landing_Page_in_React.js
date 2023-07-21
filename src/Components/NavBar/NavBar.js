@@ -23,7 +23,7 @@ export default function NavBar() {
                             <a className="nav-link text-white" href="#">Connect a wallet</a>
                         </li>
                         <li className="nav-item">
-                            <button className="btn btn-primary btn-outline-primary text-white" type="submit">Search</button>
+                            <button className="btn btn-primary btn-outline-primary text-white" type="submit"><i className="bi bi-search"></i>Search</button>
                         </li>
 
 
