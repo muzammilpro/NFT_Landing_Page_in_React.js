@@ -8,7 +8,9 @@ export default function HomePage() {
         <div>
             <NavBar />
             <MainHeader />
+            <br /> <br /> <br />
             <TrendingCollection />
+            <br /> <br /> <br />
             <TopCreators />
         </div>
     )
