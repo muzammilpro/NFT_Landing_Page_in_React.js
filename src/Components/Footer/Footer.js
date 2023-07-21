@@ -2,7 +2,7 @@ import LogoImg from '../../Images/Storefront.png'
 
 export default function Footer() {
     return (
-        <div className='container'>
+        
             <footer className=' bg-gradient '>
                 <div className="container text-white">
                     <div class="row">
@@ -57,6 +57,6 @@ export default function Footer() {
                 <p className='text-white'>&copy;NFT Market. Use this template freely And All right reserved <b> Muzammil Husnain</b> </p>
                 <br />
             </footer>
-        </div>
+        
     )
 }

@@ -5,6 +5,7 @@ import TopCreators from '../Components/TopCreators/TopCreators'
 import DiscoverMore from '../Components/DiscoverMore/DiscoverMore'
 import BrowseCategory from '../Components/BrowseCategory/BrowseCategory'
 import HowItWork from '../Components/HowItWork/HowItWork'
+import MagicMashrooms from '../Components/MagicMashrooms/MagicMashrooms'
 import JoinOurWeekly from '../Components/JoinOurWeekly/JoinOurWeekly'
 import Footer from '../Components/Footer/Footer'
 
@@ -23,6 +24,8 @@ export default function HomePage() {
             <BrowseCategory />
             <br /> <br /> <br />
             <HowItWork/>
+            <br /> <br /> <br />
+            <MagicMashrooms />
             <br /> <br /> <br />
             <JoinOurWeekly />
             <br /> <br /> <br />

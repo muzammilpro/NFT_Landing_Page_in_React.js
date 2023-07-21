@@ -4,3 +4,18 @@
     }
   }
 
+/* styles.css */
+.background-image-container {
+  /* Set the background image with the imported image path */
+  background-image: url('./Images/NFT\ Highlight.png');
+  /* Set the background size, repeat, and position if needed */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  /* Set the container height to ensure the background image is visible */
+  min-height: 300px; 
+  /* Adjust the height as per your requirement */
+}
+
+
+
