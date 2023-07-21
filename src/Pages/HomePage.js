@@ -5,6 +5,7 @@ import TopCreators from '../Components/TopCreators/TopCreators'
 import DiscoverMore from '../Components/DiscoverMore/DiscoverMore'
 import BrowseCategory from '../Components/BrowseCategory/BrowseCategory'
 import HowItWork from '../Components/HowItWork/HowItWork'
+import Footer from '../Components/Footer/Footer'
 
 export default function HomePage() {
     return (
@@ -21,6 +22,9 @@ export default function HomePage() {
             <BrowseCategory />
             <br /> <br /> <br />
             <HowItWork/>
+            <br /> <br /> <br />
+
+            <Footer />
         </div>
     )
 }
