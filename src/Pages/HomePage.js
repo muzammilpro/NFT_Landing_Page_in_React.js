@@ -4,6 +4,7 @@ import TrendingCollection from '../Components/TrendingCollection/TrendingCollect
 import TopCreators from '../Components/TopCreators/TopCreators'
 import DiscoverMore from '../Components/DiscoverMore/DiscoverMore'
 import BrowseCategory from '../Components/BrowseCategory/BrowseCategory'
+import HowItWork from '../Components/HowItWork/HowItWork'
 
 export default function HomePage() {
     return (
@@ -19,6 +20,7 @@ export default function HomePage() {
             <br /> <br /> <br />
             <BrowseCategory />
             <br /> <br /> <br />
+            <HowItWork/>
         </div>
     )
 }
