@@ -12,13 +12,13 @@ export default function HowItWork() {
                 <p className='text-white'>Find Out How TO Get Started</p>
                 <div className="row">
                     <div className="col">
-                        <HowItWorkCards  scr={Img1} title="Setup Your Wallet"  paragraph="Set up your wallet of choice.Connect it to the Animarket by clicking the wallet icon in the top right corner"/>
+                        <HowItWorkCards  scr={Img1} title="Setup Your Wallet"  paragraph="Set up your wallet of choice.Connect it to the Animarket by clicking the wallet icon in the top right corner"/> <br/>
                     </div>
                     <div className="col">
-                        <HowItWorkCards scr={Img2} title="Create Collection" paragraph="Upload your work and setup your collection. Add a description, social links and floor price."/>
+                        <HowItWorkCards scr={Img2} title="Create Collection" paragraph="Upload your work and setup your collection. Add a description, social links and floor price."/> <br/>
                     </div>
                     <div className="col">
-                        <HowItWorkCards scr={Img3} title="Start Earning" paragraph="Choose between auctions and fixed-price listing. Start earning by selling your NFTs or trading others "/>
+                        <HowItWorkCards scr={Img3} title="Start Earning" paragraph="Choose between auctions and fixed-price listing. Start earning by selling your NFTs or trading others "/> <br/>
                     </div>
                 </div>
             </div>

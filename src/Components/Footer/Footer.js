@@ -54,7 +54,7 @@ export default function Footer() {
 
                 <center><hr style={{ color: "white", width: "90%" }} /></center>
 
-                <p className='text-white'>&copy;NFT Market. Use this template freely And All right reserved <b> Muzammil Husnain</b> </p>
+                <p className='text-white'>&copy;NFT Market. Use this template freely And All rights reserved by <b> Muzammil Husnain</b> </p>
                 <br />
             </footer>
         

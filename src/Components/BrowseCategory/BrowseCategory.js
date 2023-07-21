@@ -16,31 +16,31 @@ export default function BrowseCategory() {
             <h3 className="text-white"> Browse Categories</h3> <br /><br />
             <div class="row">
                 <div class="col">
-                    <BrowseCategoryCards scr={Img1} text="Art" />
+                    <BrowseCategoryCards scr={Img1} text="Art" /> <br/>
                 </div>
                 <div class="col">
-                    <BrowseCategoryCards scr={Img2} text="Collectibles" />
+                    <BrowseCategoryCards scr={Img2} text="Collectibles" /> <br/>
                 </div>
                 <div class="col">
-                    <BrowseCategoryCards scr={Img3} text="Music" />
+                    <BrowseCategoryCards scr={Img3} text="Music" /> <br/>
                 </div>
                 <div class="col">
-                    <BrowseCategoryCards scr={Img4} text="Photography" />
+                    <BrowseCategoryCards scr={Img4} text="Photography" /> <br/>
                 </div>
             </div>
             <br />
             <div class="row">
                 <div class="col">
-                    <BrowseCategoryCards scr={Img5} text="Video" />
+                    <BrowseCategoryCards scr={Img5} text="Video" /> <br/>
                 </div>
                 <div class="col">
-                    <BrowseCategoryCards scr={Img6} text="Utility" />
+                    <BrowseCategoryCards scr={Img6} text="Utility" /> <br/>
                 </div>
                 <div class="col">
-                    <BrowseCategoryCards scr={Img7} text="Sport" />
+                    <BrowseCategoryCards scr={Img7} text="Sport" /> <br/>
                 </div>
                 <div class="col">
-                    <BrowseCategoryCards scr={Img8} text="Virtual Words" />
+                    <BrowseCategoryCards scr={Img8} text="Virtual Words" /> <br/>
                 </div>
             </div>
         </div>
