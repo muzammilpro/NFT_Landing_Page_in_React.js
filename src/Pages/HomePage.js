@@ -5,6 +5,7 @@ import TopCreators from '../Components/TopCreators/TopCreators'
 import DiscoverMore from '../Components/DiscoverMore/DiscoverMore'
 import BrowseCategory from '../Components/BrowseCategory/BrowseCategory'
 import HowItWork from '../Components/HowItWork/HowItWork'
+import JoinOurWeekly from '../Components/JoinOurWeekly/JoinOurWeekly'
 import Footer from '../Components/Footer/Footer'
 
 export default function HomePage() {
@@ -23,7 +24,8 @@ export default function HomePage() {
             <br /> <br /> <br />
             <HowItWork/>
             <br /> <br /> <br />
-
+            <JoinOurWeekly />
+            <br /> <br /> <br />
             <Footer />
         </div>
     )
