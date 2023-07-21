@@ -1,12 +1,18 @@
-import React from 'react'
+import Img from '../../Images/Avatar .png'
 
 export default function TopCreatorsCards() {
     return (
-        <div className="card" style={{width: "18rem"}}>
-            <img src="..." className="card-img-top" alt="..." />
-                <div className="card-body">
-                    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <div className="card bg-secondary bg-gradient" style={{width: "12rem" , height: "10rem"}}>
+           <center>
+           <img src={Img} className="card-img-top" alt="..." style={{width: "4rem"}} />
+                <div className="card-body topCardBody">
+                    <h4 className=" text-white">Keepitreal</h4>
+                    <div className='d-flex'>
+                    <p className="card-text text-white-50">Total Sales: </p>
+                    <p className="card-text text-white"> 34.53 ETH</p>
+                    </div>
                 </div>
+           </center>
         </div>
     )
 }
