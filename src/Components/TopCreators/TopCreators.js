@@ -23,7 +23,7 @@ export default function TopCreators() {
                     <p className='text-white'>Checkout Top Rated Creators On The NFT Marketplace</p>
                 </div>
                 <div className="col">
-                    <button type="button" className="btn btn-outline-primary"><i className="bi bi-rocket"></i>View Rankings</button> <br />
+                    <button type="button" className="btn btn-outline-primary"><i className="bi bi-rocket"> </i>View Rankings</button> <br />
                 </div>
             </div>
 
