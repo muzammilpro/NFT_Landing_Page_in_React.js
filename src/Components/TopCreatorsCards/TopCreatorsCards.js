@@ -1,10 +1,10 @@
-import Img from '../../Images/Avatar .png'
 
-export default function TopCreatorsCards() {
+
+export default function TopCreatorsCards(props) {
     return (
         <div className="card bg-secondary bg-gradient" style={{width: "12rem" , height: "10rem"}}>
            <center>
-           <img src={Img} className="card-img-top" alt="..." style={{width: "4rem"}} />
+           <img src={props.scr} className="card-img-top" alt="..." style={{width: "4rem"}} />
                 <div className="card-body topCardBody">
                     <h5 className=" text-white">Keepitreal</h5>
                     <div className='d-flex'>
