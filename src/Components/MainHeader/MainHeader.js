@@ -36,10 +36,9 @@ export default function MainHeader() {
                 </div>
 
 
-                <div className="col">
+                <div className="col"><br/>
+
                     <div>
-
-
                         <div className="card bg-secondary bg-gradient" style={{ width: "18rem" }}>
                             <img src={img} alt="#" id="HeaderCardImg" style={{ borderRadius: "9%" }} />
                             <div className="card-body ">
